@@ -1,0 +1,5 @@
+## Interface: 90205
+## Title: |cFFFFFFFFTrollFace|r
+## Notes: |cFFFFFFFFShows TrollFace |r
+## SavedVariables: TrollFaceDB
+TrollFace.lua
